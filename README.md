@@ -6,7 +6,7 @@
 
 I am an **Engineering Manager** with experience working with companies of all sizes, particularly in fast-paced **startups** and **edtechs**.
 
-I am proficient in **Javascript**, **React**, and the associated toolkit, and pride myself on putting people first and effective communication. My main mission is to share knowledge and promote a healthy work-life balance.
+I am proficient in **Javascript**, **React** plus the associated toolkit. I pride myself on putting people first and effective communication. My main mission is to share knowledge and promote a healthy work-life balance.
 
 Throughout my career, I have helped teams deliver high-quality products and services through my technical expertise and leadership skills.
 
