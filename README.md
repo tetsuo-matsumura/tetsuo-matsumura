@@ -1,6 +1,6 @@
 ### Welcome to my Github profile! 👋
 
-[![Work](https://img.shields.io/badge/Working%20At-DOT%20Digital%20Group-blue?style=flat-square&logo=microgenetics&logoColor=white)](https://dotgroup.com.br/en/)
+[![Work](https://img.shields.io/badge/Working%20At-OnTheStage-blue?style=flat-square&logo=microgenetics&logoColor=white)](https://onthestage.com/)
 [![My job](https://img.shields.io/badge/Teacher%20At-TERA-blue?style=flat-square&logo=microgenetics&logoColor=lightgrey)](https://somostera.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tetsuo%20Matsumura-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetsuo-matsumura-b7851b5b/)
 
