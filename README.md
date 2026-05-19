@@ -1,24 +1,16 @@
-### Welcome to my Github profile!  👋
+### Hey, I'm Tetsuo 👋
 
-[![Work](https://img.shields.io/badge/Working%20At-OnTheStage-blue?style=flat-square&logo=microgenetics&logoColor=white)](https://onthestage.com/)
-[![My job](https://img.shields.io/badge/Teacher%20At-TERA-blue?style=flat-square&logo=microgenetics&logoColor=lightgrey)](https://somostera.com/)
+[![Work](https://img.shields.io/badge/Engineering%20Manager-Money%20Forward-blue?style=flat-square&logo=microgenetics&logoColor=white)](https://corp.moneyforward.com/en/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tetsuo%20Matsumura-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetsuo-matsumura-b7851b5b/)
 
-I am currently employed as a **Senior Software Engineer,** bringing extensive experience from my previous role as an **Engineering Manager**. Throughout my career, I've collaborated with companies of various sizes, with a particular focus on thriving in fast-paced **startup** and **edtech** environments.
+I'm a **Software Engineer** and **Engineering Manager** based in Tokyo.
 
-My technical proficiency spans **Javascript**, **React**, and their associated toolkits. My commitment to prioritizing people and fostering effective communication remains unwavering, contributing to a positive work environment and a healthy work-life balance.
+Most of my work is around **TypeScript**, **React**, **Node.js**, **microfrontends**, **design systems**, and building web products that people can actually maintain.
 
-In my previous capacity as an Engineering Manager, I played a pivotal role in helping teams deliver high-quality products and services, showcasing my technical expertise and leadership skills.
+I've worked across startups, fintech, healthcare, edtech, proptech, and ticketing platforms, moving between hands-on engineering and engineering leadership depending on what the team needs.
 
-Alongside my current position as a Senior Software Engineer, I continue to share my knowledge and passion for teaching. Having served as a Fullstack Development Bootcamp Teacher, I take pride in mentoring developers and guiding them into the IT market. With a track record of successfully coaching over 500 developers, I am dedicated to supporting others in their skill development and career advancement.
+I care a lot about **healthy teams**, **clear communication**, **product thinking**, and turning messy technical problems into something easier to understand.
 
-Outside of work, I engage in providing free programming classes to assist individuals in entering the field or elevating their existing skills. My commitment to teaching and knowledge-sharing extends beyond my professional roles, as I actively seek opportunities to give back to the community.
+I also spent years teaching and mentoring developers, which is probably why I enjoy writing, explaining, and helping people grow almost as much as I enjoy building software.
 
-I look forward to ongoing learning and collaboration on exciting projects. Thank you for taking the time to explore my profile.
-
-
-
-
-
-
-
+Outside of work, I'm usually building side projects, playing card games, or overthinking systems that probably started as “just a quick idea.”
